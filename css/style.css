@@ -1,0 +1,58 @@
+
+body{
+    font-family: 'Fira Sans', sans-serif;
+    
+}
+.bg-black{
+    background-color: black;
+}
+.custom-font-h3{
+    font-size: 40px;
+}
+.home-slider h2{
+    font-size: 48px;
+    line-height: auto;
+
+}
+.home-slider .btn-outline-light{
+    font-size: 28px;
+    line-height: normal;
+}
+.about-section p{
+    font-size: 16px;
+    line-height: 28px;
+}
+.about-section h1{
+    font-size: 40px;
+}
+.service-box h4{
+    font-size: 24px;
+
+}
+.contact-section{
+    background-image: url(../images/footer-bk.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.address-box p{
+    font-size: 16px;
+}
+.contact-box .form-control{
+    height: 50px;
+}
+.contact-box textarea.form-control{
+    height: 150px;
+}
+@media(max-width:991px){
+    #focuzSlider .carousel-caption h2{
+        font-size: 16px;
+    }
+}
+@media(max-width:767px){
+    .header-section .navbar img{
+        width: 125px;
+    
+    }
+
+}
+ 
